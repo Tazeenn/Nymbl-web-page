@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="66" viewBox="0 0 67 66">
+  <g id="usericon" transform="translate(-324 -372)">
+    <g id="Ellipse_74" data-name="Ellipse 74" transform="translate(324 372)" fill="#fff" stroke="#003dff" stroke-width="6">
+      <ellipse cx="33.5" cy="33" rx="33.5" ry="33" stroke="none"/>
+      <ellipse cx="33.5" cy="33" rx="30.5" ry="30" fill="none"/>
+    </g>
+    <path id="Path_51" data-name="Path 51" d="M34.006,27.077a14.045,14.045,0,1,0-17.368,0A23.408,23.408,0,0,0,2.078,46.224a2.355,2.355,0,1,0,4.682.515,18.726,18.726,0,0,1,37.218,0,2.341,2.341,0,0,0,2.341,2.083h.257a2.341,2.341,0,0,0,2.06-2.575A23.408,23.408,0,0,0,34.006,27.077Zm-8.684-1.662a9.363,9.363,0,1,1,9.363-9.363A9.363,9.363,0,0,1,25.322,25.415Z" transform="translate(332.175 379.749)" fill="#003dff"/>
+  </g>
+</svg>

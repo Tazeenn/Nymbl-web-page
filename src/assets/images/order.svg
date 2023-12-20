@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="354" height="291" viewBox="0 0 354 291">
+  <defs>
+    <filter id="Rectangle_226" x="0" y="0" width="354" height="291" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="22.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="order" transform="translate(-1257.5 -219.5)">
+    <g transform="matrix(1, 0, 0, 1, 1257.5, 219.5)" filter="url(#Rectangle_226)">
+      <rect id="Rectangle_226-2" data-name="Rectangle 226" width="219" height="156" rx="35" transform="translate(52.5 52.5)" fill="#fff"/>
+    </g>
+    <text id="Total_Order" data-name="Total Order" transform="translate(1398 320)" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="-51.347" y="0">Total Order</tspan></text>
+    <text id="Revenue" transform="translate(1345 384)" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">Revenue</tspan></text>
+    <text id="_385" data-name="385" transform="translate(1346 342)" fill="#02c0b3" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">385</tspan></text>
+    <text id="AED_18350" data-name="AED 18350" transform="translate(1345 406)" fill="#02c0b3" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">AED 18350</tspan></text>
+    <text id="Today" transform="translate(1345 302)" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="0" y="0">Today</tspan></text>
+    <text id="Today-2" data-name="Today" transform="translate(1345 366)" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="0" y="0">Today</tspan></text>
+    <text id="_35_" data-name="+35%" transform="translate(1383 342)" fill="#06cb16" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">+35%</tspan></text>
+    <text id="_38.2_" data-name="+38.2%" transform="translate(1445 404)" fill="#06cb16" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">+38.2%</tspan></text>
+    <line id="Line_106" data-name="Line 106" x2="135" transform="translate(1331.5 351.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

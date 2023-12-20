@@ -1,0 +1,19 @@
+.fade-enter {
+    opacity: 0.01;
+  }
+  
+  .fade-enter-active {
+    opacity: 1;
+    transition: opacity 1000ms ease-in;
+  }
+  
+  .slide-enter {
+    transform: translateY(100%);
+  }
+  
+  .slide-enter-active {
+    transform: translateY(0);
+    transition: transform 800ms ease-in-out;
+  }
+
+  export :default
