@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshot Images
+![SS1](https://github.com/Tazeenn/Nymbl-web-page/assets/95432172/7b205113-582d-4f45-9ace-59811a90e4b3)
+![SS2](https://github.com/Tazeenn/Nymbl-web-page/assets/95432172/e8ddd2ef-9928-498e-b2e9-e2f8867858b9)
+![SS3](https://github.com/Tazeenn/Nymbl-web-page/assets/95432172/b2a304e8-91bf-4628-9a79-1441de4a9ecf)
+![SS4](https://github.com/Tazeenn/Nymbl-web-page/assets/95432172/153c175e-6b33-4ce0-916f-c752c7ab35c8)
+![SS5](https://github.com/Tazeenn/Nymbl-web-page/assets/95432172/c2d51edc-cb0b-49e5-9d3f-f4335de62695)
+![SS6](https://github.com/Tazeenn/Nymbl-web-page/assets/95432172/edf6eb14-e528-4819-8486-86482a64c676)
+![SS7](https://github.com/Tazeenn/Nymbl-web-page/assets/95432172/85891190-9946-4bd1-bae7-5e945bbf100a)
+![SS8](https://github.com/Tazeenn/Nymbl-web-page/assets/95432172/e9f8345e-3cd3-47f2-9d39-3f3c27c1470a)
